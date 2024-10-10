@@ -9,6 +9,9 @@
     margin: 0px;
 }
 
+.nombreDelaclase{
+    background-color: darkblue;
+}
 .title {
     margin: 5%;
     font-size: 3rem;
